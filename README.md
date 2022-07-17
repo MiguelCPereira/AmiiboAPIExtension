@@ -11,5 +11,5 @@ A functional version of the software is available under the "Build" folder.
 <br />
 <br />
 
-[![Showcase](https://github.com/MiguelCPereira/AmiiboAPIExtension/blob/main/Screenshots/Showcase%20Thumbnail.png)](http://www.youtube.com/watch?v=xonvrfbR3hA "Amiibo API Extension - Showcase")
+[![Showcase](https://github.com/MiguelCPereira/AmiiboAPIExtension/blob/main/Screenshots/Showcase%20Thumbnail.png)](https://www.youtube.com/watch?v=yw2tpa5d9wE "Amiibo API Extension Showcase")
 
